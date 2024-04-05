@@ -1,0 +1,11 @@
+To run the server :
+	- move to server folder
+	- to install all necessary packages use "npm install" command
+	- to run the project use "npm start"
+	- now the backend will running on localhost:5000
+
+To run the client :
+	- move to client folder
+	- to install necessary packages use "npm install"
+	- to eun the project use "npm start"
+	- now the frontend will running on localhost:3000
